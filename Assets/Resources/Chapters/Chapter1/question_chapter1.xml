@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Questions chapter = "1">
+
+
+	
+<Question
+            
+		number = "1"
+            
+		question = "Обо мне мечтают романтики,\nИдеалы теряя в дороге,\nМеня делают часто фанатики,\nНегодяи приходят в итоге...\n\nКто я?"
+	        
+		right_answer = "Революция"
+    
+		font_size = "47"         
+		final_image_path = "Chapters/Chapter1/chapter1/1.1"
+    />
+
+
+	
+
+<Question
+            
+		number = "2"
+            
+		question = "Могу быть ярким и цветным\nИли уныло черно-белым.\nМогу пугать иль прорицать,\nИ веселить без всякой меры!\n\nКто я?"
+	        
+		right_answer = "Сон"
+     
+		font_size = "47"        
+		final_image_path = "Chapters/Chapter1/chapter1/1.2"
+    />
+
+
+
+<Question
+            
+		number = "3"
+            
+		question = "Я пред тобой, но далеко.\nМеня ты видишь, но не знаешь.\nКо мне идешь, но не придешь.\nЛишь только время потеряешь.\n\nКто я?"
+	
+		right_answer = "Мираж"
+ 
+		font_size = "47"            
+		final_image_path = "Chapters/Chapter1/chapter1/1.3"
+    />
+
+
+
+
+<Question
+            
+		number = "4"
+            
+		question = "Я скрыта-забыта,\nХранима-потеряна,\nКто ищет-не знает,\nРаскрыть всё мечтает.\n\nКто я?"
+	        
+		right_answer = "Тайна"
+  
+		font_size = "47"           
+		final_image_path = "Chapters/Chapter1/chapter1/1.4"
+    />
+
+
+
+<Question
+            
+		number = "5"
+            
+		question = "Меня нет, но влеку я к себе.\nМеня нет, но для тебя я желанна.\nПолучишь меня - и не станет меня.\nИсчезну, покину, забудусь нежданно.\n\nКто я?"
+	
+		right_answer = "Мечта"
+ 
+		font_size = "43"            
+		final_image_path = "Chapters/Chapter1/chapter1/1.5"
+    />
+
+
+
+
+<Question
+            
+		number = "6"
+            
+		question = "Вглядись в меня ты внимательно,\nОцени все мои недостатки.\nИ тогда расскажу я старательно,\nПро твои недостатки порядком.\n\nКто я?"
+	        
+		right_answer = "Отражение"
+		font_size = "43"             
+		final_image_path = "Chapters/Chapter1/chapter1/1.6"
+    />
+
+
+
+
+<Question
+            
+		number = "7"
+            
+		question = "Я великий художник, не знаю границ.\nМой холст - бесконечность,\nА кисти - виденья,\nСквозь века, тьму событий\nИ тысячи лиц\nМечтателям я дарую творенья.\nКто я?"
+	
+		right_answer = "Воображение"
+ 
+		font_size = "43"            
+		final_image_path = "Chapters/Chapter1/chapter1/1.7"
+    />
+
+
+
+
+<Question
+            
+		number = "8"
+            
+		question = "Я прошлым даровано,\nГрядущим не знаемо,\nТекущим хранимо,\nМинувшим желаемо.\n\nКто я?"
+	        
+		right_answer = "Настоящее"
+
+		font_size = "47"             
+		final_image_path = "Chapters/Chapter1/chapter1/1.8"
+    />
+
+
+
+<Question
+            
+		number = "9"
+            
+		question = "Лишаю разума и сна.\nЗабыть заставлю силу воли.\nСо мной взлетишь ты в небеса.\nИли падешь, разбитый горем.\n\nКто я?"
+	        
+		right_answer = "Страсть"
+      
+		font_size = "47"       
+		final_image_path = "Chapters/Chapter1/chapter1/1.9"
+    />
+
+
+
+<Question
+            
+		number = "10"
+            
+		question = "Могу вдохнуть я жизнь, прийдя.\nИли приблизить смерть, покинув.\nИ можем вместе мы мечтать.\nИли скорбеть, меня отринув.\n\nКто я?"
+	        
+		right_answer = "Вера"
+		font_size = "47"            
+		final_image_path = "Chapters/Chapter1/chapter1/1.10"
+    />
+
+
+
+<Question
+            
+		number = "11"
+            
+		question = "Могу я разума лишить\nИли наполнить вдохновеньем.\nСтрадать заставлю и грустить,\nИли парить - в одно мгновенье.\n\nКто я?"
+	        
+		right_answer = "Любовь"
+ 
+		font_size = "47"            
+		final_image_path = "Chapters/Chapter1/chapter1/1.11"
+    />
+
+
+
+<Question
+            
+		number = "12"
+            
+		question = "Могу быть робкой,\nМогу быть страстной,\nМогу быть яркой, могу - не ясной.\nМогу тлеть слабо, иль жарко пылать,\nРазбиться могу,\nИль из праха поднять.\nКто я?"
+	        
+		right_answer = "Надежда"
+ 
+		font_size = "43"            
+		final_image_path = "Chapters/Chapter1/chapter1/1.12"
+    />
+
+
+
+
+</Questions>

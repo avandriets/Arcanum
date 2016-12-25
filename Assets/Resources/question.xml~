@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Questions chapter = "1">
+
+	<Question
+            number = "1"
+            question = "Сколько звезд на небе?"
+	        right_answer = "хз"
+            final_image_path = ""
+    />
+
+	<Question
+            number = "2"
+            question = "Сколько рыбы в море?"
+            right_answer = "много"
+            final_image_path = ""
+    />
+
+</Questions>

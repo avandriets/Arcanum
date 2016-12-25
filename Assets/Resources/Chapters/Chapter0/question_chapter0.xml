@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+<Questions chapter = "0">
+
+
+	
+
+
+<Question
+            
+		
+		number = "1"
+            
+		
+		question = "Для многих краше солнца я,\nМилее чести, дружбы, сна,\nЖеланней радости утех, -\nПоработить могу я всех!\n\nКто я?"
+	        
+		
+		right_answer = "Золото"
+ 
+		font_size = "47"           
+		
+		final_image_path = "Chapters/Chapter0/chapter0/0.1"
+    />
+
+
+	
+
+
+
+<Question
+            
+		
+		number = "2"
+            
+		
+		question = "Я не право и не лево.\nЯ не конец и не начало.\nЯ не хорош и не дурен.\nМеня не много и не мало.\n\nКто я?"
+	        
+		
+		right_answer = "Середина"
+		font_size = "47"             
+		
+		final_image_path = "Chapters/Chapter0/chapter0/0.2"
+    />
+
+
+
+
+
+<Question
+            
+		
+		number = "3"
+            
+		
+		question = "Я паству свою веду за собой,\nВо имя меня бросаются в бой,\nЯ в разных обличьях и многих веках\nНесу утешенье, надежду и страх.\n\nКто я?"
+
+	
+	right_answer = "Религия"
+ 
+		font_size = "43"            
+		
+		final_image_path = "Chapters/Chapter0/chapter0/0.3"
+    />
+
+
+
+
+
+
+<Question
+            
+		
+		number = "4"
+            
+		
+		question = "Я - бич богов. Я - смерть героев.\nРазрушу веру, правду скрою.\nСотру я все, что захочу.\nИ сердца раны залечу.\n\nКто я?"
+
+		right_answer = "Забвение"
+  
+		font_size = "47"   
+        
+	final_image_path = "Chapters/Chapter0/chapter0/0.4"
+    />
+
+
+
+
+
+
+</Questions>

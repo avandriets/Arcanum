@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Questions chapter = "3">
+
+
+
+<Question
+            
+		number = "1"
+            
+		question = "Ко мне нельзя относится серьезно -\nЯ всего лишь твое развлеченье.\nСо мной многое станет возможным,\nПодарю я от скуки спасенье.\n\nКто я?"
+ 
+		right_answer = "Игра"
+		font_size = "43" 
+            
+		final_image_path = "Chapters/Chapter3/chapter3/3.1"
+    />
+
+
+	
+
+<Question
+            
+		number = "2"
+            
+		question = "Могу я счастье показать,\nМогу сомненье выражать.\nИздевкой тоже быть могу,\nНо лучше радость подарю.\n\nКто я?"
+	        
+		right_answer = "Смех"
+       
+		font_size = "47"      
+		final_image_path = "Chapters/Chapter3/chapter3/3.2"
+    />
+
+
+
+<Question
+            
+		number = "3"
+            
+		question = "Коль слышу &quot;нет&quot;, скажу я &quot;да&quot;,\nТы скажешь &quot;свет&quot;, а я: &quot;нет, тьма&quot;.\nСо мной согласья не сыскать,\nНо правду можно потерять...\n\nКто я?"
+	
+		right_answer = "Спор"
+       
+		font_size = "43"      
+		final_image_path = "Chapters/Chapter3/chapter3/3.3"
+    />
+
+
+
+
+<Question
+            
+		number = "4"
+            
+		question = "Я снисходительна к тебе,\nВсегда готова к компромиссу.\nЗабыть дела, заботы жизни\nВ безделья тихой суете.\n\nКто я?"
+	        
+		right_answer = "Лень"
+  
+		font_size = "47"           
+		final_image_path = "Chapters/Chapter3/chapter3/3.4"
+    />
+
+
+
+<Question
+            
+		number = "5"
+            
+		question = "Я тебе не позволю расслабиться,\nКомфорт и покой я разрушу,\nТвое сердце взволную и душу,\nСо мной все из рук твоих валится...\n\nКто я?"
+	
+		right_answer = "Тревога"
+ 
+		font_size = "43"            
+		final_image_path = "Chapters/Chapter3/chapter3/3.5"
+    />
+
+
+
+
+<Question
+            
+		number = "6"
+            
+		question = "Со мной медленно тянется время,\nНарастает твое раздраженье,\nЯ стрелки часов замедляю\nИ сею тревогу, сомненья.\n\nКто я?"
+	        
+		right_answer = "Ожидание"
+  
+		font_size = "47"           
+		final_image_path = "Chapters/Chapter3/chapter3/3.6"
+    />
+
+
+
+
+<Question
+            
+		number = "7"
+            
+		question = "Мой бледен лик\nИ громок крик,\nДрожать заставлю\nВас я вмиг!\n\nКто я?"
+	
+		right_answer = "Ужас"
+  
+		font_size = "47"           
+		final_image_path = "Chapters/Chapter3/chapter3/3.7"
+    />
+
+
+
+
+<Question
+            
+		number = "8"
+            
+		question = "Мой крепок дух,\nИ воля сильна,\nИ меч мой - как гром,\nИ щит - как стена.\n\nКто я?"
+	        
+		right_answer = "Отвага"
+
+		font_size = "47"             
+		final_image_path = "Chapters/Chapter3/chapter3/3.8"
+    />
+
+
+
+<Question
+            
+		number = "9"
+            
+		question = "Мне хлеб подавайте,\nМне злато несите,\nВсе всё мне отдайте,\nИ ничего не просите!\n\nКто я?"
+	        
+		right_answer = "Жадность"
+
+		font_size = "47"             
+		final_image_path = "Chapters/Chapter3/chapter3/3.9"
+    />
+
+
+
+<Question
+            
+		number = "10"
+            
+		question = "Быть может &quot;нет&quot;, а может &quot;да&quot;,\nСкорей всего, не то, - другое.\nЯ не уверен никогда,\nКолеблюсь я всегда с тобою...\n\nКто я?"
+	        
+		right_answer = "Сомнение"
+  
+		font_size = "47"           
+		final_image_path = "Chapters/Chapter3/chapter3/3.10"
+    />
+
+
+
+<Question
+            
+		number = "11"
+            
+		question = "Я не талантом решаю проблемы,\nНе озарением, посланным свыше.\nДля достижения цели дайте мне время,\nСтаранья побольше и шума потише.\n\nКто я?"
+	        
+		right_answer = "Усердие"
+   
+		font_size = "42"          
+		final_image_path = "Chapters/Chapter3/chapter3/3.11"
+    />
+
+
+
+<Question
+            
+		number = "12"
+            
+		question = "Я неизбежный гость для всех,\nКому-то я дарю терпенье,\nКому-то немощь и забвенье,\nКому-то мудрости доспех...\n\nКто я?"
+	        
+		right_answer = "Старость"
+
+		font_size = "47"             
+		final_image_path = "Chapters/Chapter3/chapter3/3.12"
+    />
+
+
+
+</Questions>

@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Questions chapter = "5">
+
+
+	
+<Question
+            
+		number = "1"
+            
+		question = "Мы воплощение тебя,\nПолны твоих надежд и веры,\nЛюбимы мы без всякой меры,\nРастем, тебя боготворя...\n\nКто мы?"
+ 
+		right_answer = "Дети"
+		font_size = "47" 
+            
+		final_image_path = "Chapters/Chapter5/chapter5/5.1"
+    />
+
+
+	
+
+<Question
+            
+		number = "2"
+            
+		question = "Коль я пришел - не отпущу,\nЗаставлю голос свой я слушать.\nИ буду я ворчать и ждать,\nПока не сядешь ты покушать.\n\nКто я?"
+	        
+		right_answer = "Голод"
+       
+		font_size = "47"      
+		final_image_path = "Chapters/Chapter5/chapter5/5.2"
+    />
+
+
+
+<Question
+            
+		number = "3"
+            
+		question = "Меня мало в пустыне,\nНо много в лесу,\nМеня свет убивает,\nНо без него не живу.\n\nКто я?"
+	
+		right_answer = "Тень"
+       
+		font_size = "47"      
+		final_image_path = "Chapters/Chapter5/chapter5/5.3"
+    />
+
+
+
+
+<Question
+            
+		number = "4"
+            
+		question = "Могу быть добрым и веселым,\nМогу быть строгим и суровым,\nМогу я в тайну посвятить\nИ в песне в небесах парить.\n\nКто я?"
+	        
+		right_answer = "Слово"
+  
+		font_size = "47"           
+		final_image_path = "Chapters/Chapter5/chapter5/5.4"
+    />
+
+
+
+<Question
+            
+		number = "5"
+            
+		question = "Бегу по полям, пробираюсь в лесах,\nСкрываюсь в ущельях,\nБескрайних степях,\nВзмываю над реками, ныряю под горы\nВеду сквозь туманы в иные просторы.\nКто я?"
+	
+		right_answer = "Дорога"
+ 
+		font_size = "43"            
+		final_image_path = "Chapters/Chapter5/chapter5/5.5"
+    />
+
+
+
+
+<Question
+            
+		number = "6"
+            
+		question = "Я выведу котов на крыши,\nСмахну серую пленку с неба,\nУпрошу солнце подняться повыше,\nОдарю безразличьем проблемы.\n\nКто я?"
+	        
+		right_answer = "Весна"
+  
+		font_size = "47"           
+		final_image_path = "Chapters/Chapter5/chapter5/5.6"
+    />
+
+
+
+
+<Question
+            
+		number = "7"
+            
+		question = "Тоски я обитель\nИ памятник павшим,\nЯ праха хранитель\nУшедших и старших.\n\nКто я?"
+	
+		right_answer = "Склеп"
+  
+		font_size = "47"           
+		final_image_path = "Chapters/Chapter5/chapter5/5.7"
+    />
+
+
+
+
+<Question
+            
+		number = "8"
+            
+		question = "Стремлюсь ко всевластью,\nЖелаю отличия,\nГотов я на подлость ради величия,\nНет дела до низших,\nОбычных и павших -\nЯ - вождь беспринципных\nИ умственно страшных.\nКто я?"
+	        
+		right_answer = "Тиран"
+
+		font_size = "43"             
+		final_image_path = "Chapters/Chapter5/chapter5/5.8"
+    />
+
+
+
+<Question
+            
+		number = "9"
+            
+		question = "Повзрослел я как-то нечаянно,\nПробегая сквозь дни и недели,\nБезмятежности детства\nЖелая отчаянно,\nВсемогущества зрелости\nСтрастно хотел я.\nКто я?"
+	        
+		right_answer = "Возраст"
+
+		font_size = "43"             
+		final_image_path = "Chapters/Chapter5/chapter5/5.9"
+    />
+
+
+
+<Question
+            
+		number = "10"
+            
+		question = "Присмотрись ко мне повнимательней,\nИ во мне увидишь черты\nСвоей чуткой и любящей матери,\nИ характер отца\nРазглядишь во мне ты.\nКто я?"
+	        
+		right_answer = "Брат"
+  
+		font_size = "47"           
+		final_image_path = "Chapters/Chapter5/chapter5/5.10"
+    />
+
+
+
+<Question
+            
+		number = "11"
+            
+		question = "Мне ночь - подруга, день мне - враг.\nНе нужен свет, мне дайте мрак,\nТушите все огни вокруг,\nРазбей все зеркала, мой друг!\n\nКто я?"
+	
+		right_answer = "Вампир"
+   
+		font_size = "47"          
+		final_image_path = "Chapters/Chapter5/chapter5/5.11"
+    />
+
+
+
+<Question
+            
+		number = "12"
+            
+		question = "Лишенный формы, я повсюду.\nКо мне привыкли и не ценят.\nНо жизни без меня не будет,\nА только смерть и запустенье.\n\nКто я?"
+	        
+		right_answer = "Воздух"
+
+		font_size = "47"             
+		final_image_path = "Chapters/Chapter5/chapter5/5.12"
+    />
+
+
+
+
+</Questions>

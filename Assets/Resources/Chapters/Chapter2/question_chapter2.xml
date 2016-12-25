@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Questions chapter = "2">
+
+
+
+<Question
+            
+		number = "1"
+            
+		question = "Смертельно холодна иль яростно жгуча\nУжасно голодна, свирепа, могуча.\nЗлопамятна страшно, вероломна бываю.\nНо в сердце великодушном я исчезаю.\n\nКто я?"
+	        
+		right_answer = "Ненависть"
+  
+		font_size = "42"           
+		final_image_path = "Chapters/Chapter2/chapter2/2.1"
+    />
+
+
+
+<Question
+            
+		number = "2"
+            
+		question = "Я зажигаю ваши взоры,\nЦвету улыбкой на губах,\nЖиву я долго и красиво -\nВ открытых, искренних сердцах.\n\nКто я?"
+	        
+		right_answer = "Радость"
+ 
+		font_size = "47"            
+		final_image_path = "Chapters/Chapter2/chapter2/2.2"
+    />
+
+
+
+<Question
+            
+		number = "3"
+            
+		question = "Я незримый недруг твой.\nГотов вонзить в тебя я когти.\nИ сна лишить, забрав покой,\nДрожать заставив твои кости!\n\nКто я?"
+	        
+		right_answer = "Страх"
+   
+		font_size = "47"          
+		final_image_path = "Chapters/Chapter2/chapter2/2.3"
+    />
+
+
+
+<Question
+            
+		number = "4"
+            
+		question = "Тебе я напомню твои прегрешения,\nОшибки, которые ты совершил.\nЗапомню обиды, неправду,\nСомненья...\nОчистить меня поскорей поспеши.\nКто я?"
+	        
+		right_answer = "Совесть"
+  
+		font_size = "43"           
+		final_image_path = "Chapters/Chapter2/chapter2/2.4"
+    />
+
+
+
+<Question
+            
+		number = "5"
+            
+		question = "Мне милы слезы, стоны, плач,\nОбида, горечь, раздраженье,\nИ даже в сумрачных часах\nТы не найдешь во мне спасенья.\n\nКто я?"
+	        
+		right_answer = "Уныние"
+
+		font_size = "47"             
+		final_image_path = "Chapters/Chapter2/chapter2/2.5"
+    />
+
+
+
+<Question
+            
+		number = "6"
+            
+		question = "Повешу гири я на руки,\nИ ноги я залью свинцом,\nЗаторможу все мысли, звуки,\nНачало спутаю с концом.\n\nКто я?"
+	        
+		right_answer = "Усталость"
+  
+		font_size = "47"           
+		final_image_path = "Chapters/Chapter2/chapter2/2.6"
+    />
+
+
+
+<Question
+            
+		number = "7"
+            
+		question = "Кому утешенье, а кому-то проклятие,\nМогу вдохновлять,\nА могу угнетать я.\nЛюбимо немногими, мудрым я мило,\nНи в ком не нуждаюсь.\nИ в этом - вся сила.\nКто я?"
+	        
+		right_answer = "Одиночество"
+       
+		font_size = "43"      
+		final_image_path = "Chapters/Chapter2/chapter2/2.7"
+    />
+
+
+
+<Question
+            
+		number = "8"
+            
+		question = "Я уничтожу сострадание,\nИ жалость я сожгу совсем,\nЯ холодна и беспощадна -\nСтраданий я желаю всем!\n\nКто я?"
+	        
+		right_answer = "Жестокость"
+     
+		font_size = "47"        
+		final_image_path = "Chapters/Chapter2/chapter2/2.8"
+    />
+
+
+
+<Question
+            
+		number = "9"
+            
+		question = "На призыв командира,\nБросаюсь я в бой,\nИ всех, кто слабее, веду за собой.\nЗажгу я глаза и выпрямлю спины,\nТех, кто отважен,\nНикогда не покину.\nКто я?"
+	        
+		right_answer = "Доблесть"
+ 
+		font_size = "43"            
+		final_image_path = "Chapters/Chapter2/chapter2/2.9"
+    />
+
+
+
+<Question
+            
+		number = "10"
+            
+		question = "Приду к тебе я однажды,\nОбниму тихонько за плечи,\nВсе вокруг тебе станет неважным,\nКроме нашей единственной встречи.\n\nКто я?"
+	        
+		right_answer = "Смерть"
+   
+		font_size = "47"          
+		final_image_path = "Chapters/Chapter2/chapter2/2.10"
+    />
+
+
+
+<Question
+            
+		number = "11"
+            
+		question = "Мне неведомы правые,\nМне безразличны виновные,\nМеня не трогают жалобы,\nНеинтересны все стороны.\n\nКто я?"
+	        
+		right_answer = "Равнодушие"
+   
+		font_size = "47"          
+		final_image_path = "Chapters/Chapter2/chapter2/2.11"
+    />
+
+
+
+<Question
+            
+		number = "12"
+            
+		question = "Я легкомысленно прекрасна,\nИ своенравна, как царица!\nМоей любви желают страстно,\nНо прихожу я к единицам.\n\nКто я?"
+	        
+		right_answer = "Удача"
+         
+		font_size = "47"    
+		final_image_path = "Chapters/Chapter2/chapter2/2.12"
+    />
+
+
+
+
+</Questions>

@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Questions chapter = "4">
+
+
+
+<Question
+            
+		number = "1"
+            
+		question = "Я наполняю тебя жизнью,\nХоть обо мне ты и не помнишь.\nПока живой ты и активный,\nПоддерживать меня не бросишь.\n\nКто я?"
+	        
+		right_answer = "Дыхание"
+  
+		font_size = "47"           
+		final_image_path = "Chapters/Chapter4/chapter4/4.1"
+    />
+
+
+
+<Question
+            
+		number = "2"
+            
+		question = "Из того же, что ты, теста сделан,\nМне понятны твои недостатки,\nАбсолютно твоей воле предан,\nФормирую твои все повадки.\n\nКто я?"
+	
+		right_answer = "Характер"
+ 
+		font_size = "47"            
+		final_image_path = "Chapters/Chapter4/chapter4/4.2"
+    />
+
+
+
+<Question
+            
+		number = "3"
+            
+		question = "Я не нуждаюсь в доказательствах,\nМне чужды чьи-то теоремы.\nВ любого рода обстоятельствах\nРешу сомнения дилеммы.\n\nКто я?"
+	        
+		right_answer = "Догма"
+     
+		font_size = "47"        
+		final_image_path = "Chapters/Chapter4/chapter4/4.3"
+    />
+
+
+
+<Question
+            
+		number = "4"
+            
+		question = "Меня слышно едва ли.\nВ беде и печали, -\nВ любви и волненьях,\nМои воплощенья.\n\nКто я?"
+	        
+		right_answer = "Шепот"
+  
+		font_size = "47"           
+		final_image_path = "Chapters/Chapter4/chapter4/4.4"
+    />
+
+
+
+<Question
+            
+		number = "5"
+            
+		question = "Я умных ломаю, я сильных калечу,\nСвятых совращаю\nПри длительной встрече.\nЯ так незаметна и даже приятна,\nЧто вас развратить\nМогу безвозвратно.\nКто я?"
+	        
+		right_answer = "Тщеславие"
+ 
+		font_size = "47"            
+		final_image_path = "Chapters/Chapter4/chapter4/4.5"
+    />
+
+
+
+<Question
+            
+		number = "6"
+            
+		question = "Ничтожным я обременительна,\nВеликодушным не нужна,\nВ устах нечестных я сомнительна,\nВедь быть сердечной я должна.\n\nКто я?"
+	        
+		right_answer = "верность"
+  
+		font_size = "47"           
+		final_image_path = "Chapters/Chapter4/chapter4/4.6"
+    />
+
+
+
+<Question
+            
+		number = "7"
+            
+		question = "Подарю неугодным презрение,\nНаделив тебя самомнением,\nВ превосходстве я вижу спасение,\nОтвергая любые сомнения.\n\nКто я?"
+	        
+		right_answer = "Гордыня"
+ 
+		font_size = "47"            
+		final_image_path = "Chapters/Chapter4/chapter4/4.7"
+    />
+
+
+
+<Question
+            
+		number = "8"
+            
+		question = "Наполню сердце твое ядом,\nАлчностью мысли окутаю,\nЖелание с подлостью спутаю,\nНемилым все сделаю рядом.\n\nКто я?"
+	        
+		right_answer = "Зависть"
+  
+		font_size = "47"           
+		final_image_path = "Chapters/Chapter4/chapter4/4.8"
+    />
+
+
+
+<Question
+            
+		number = "9"
+            
+		question = "Я способна на многое,\nМои границы неведомы,\nПодруга мерзавцам я,\nИ беззаветно им преданна.\n\nКто я?"
+	        
+		right_answer = "Подлость"
+  
+		font_size = "47"           
+		final_image_path = "Chapters/Chapter4/chapter4/4.9"
+    />
+
+
+
+<Question
+            
+		number = "10"
+            
+		question = "Немногим подвластна,\nИ многим желанна,\nУ грубых несчастна,\nИ злыми нежданна.\n\nКто я?"
+	        
+		right_answer = "Доброта"
+ 
+		font_size = "47"            
+		final_image_path = "Chapters/Chapter4/chapter4/4.10"
+    />
+
+
+
+<Question
+            
+		number = "11"
+            
+		question = "Я рождаюсь нежданно,\nОвладеваю нечаянно,\nТвержу неустанно,\nЖелаю отчаянно.\n\nКто я?"
+	        
+		right_answer = "Желание"
+ 
+		font_size = "47"            
+		final_image_path = "Chapters/Chapter4/chapter4/4.11"
+    />
+
+
+
+<Question
+            
+		number = "12"
+            
+		question = "Я ожидаем и заслужен,\nТвоим талантом и трудами,\nКак результат тебе я нужен,\nТы раздели меня с друзьями!\n\nКто я?"
+	        
+		right_answer = "Успех"
+  
+		font_size = "47"           
+		final_image_path = "Chapters/Chapter4/chapter4/4.12"
+    />
+
+
+	
+
+
+</Questions>
